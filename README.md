@@ -1,2 +1,2 @@
 # Machine Learning Practice in Scikit-Learn 
-#### Explaination and Codes of Python with Scikit-Learn for different ML Algorithms is Given Here !!!
+#### Repository of explaination and python codes with Scikit-Learn for different ML algorithms
